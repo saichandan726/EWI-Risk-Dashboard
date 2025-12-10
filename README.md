@@ -1,5 +1,6 @@
 Risk Analytics Dashboard | Early Warning Indicators for Credit Risk Management
 Built an interactive Power BI dashboard analyzing a lending institution's customer risk profile using Early Warning Indicators (EWI), consolidating customer-level data across DPD, utilization, product type, income proof staleness, and region to proactively highlight operational and credit risks.
+
 🎯 Key Metrics (150 Customers | ₹150M Portfolio):
 Outstanding Balance: ₹110M | Average DPD: 30.9 days | High Risk Customers: 12% | High Utilization Accounts: 48 (ratio >1.0) | Exposure at Risk (EAR): ₹28M (25% of total exposure) | Stale Documentation: 19% (regulatory compliance risk)
 📈 Risk Segmentation Insights:
